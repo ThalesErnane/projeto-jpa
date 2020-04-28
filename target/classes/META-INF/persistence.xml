@@ -9,6 +9,7 @@
         <provider>org.hibernate.ejb.HibernatePersistence</provider>
 		<!-- entidade mapeada -->
         <class>br.com.alura.modelo.Conta</class> 
+        <class>br.com.alura.modelo.Movimentacao</class> 
 
         <properties>
         	
